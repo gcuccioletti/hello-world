@@ -1,2 +1,2 @@
 # hello-world
-# Learning GitHub to better understand branch strategy
+## Learning GitHub to better understand branching strategy
